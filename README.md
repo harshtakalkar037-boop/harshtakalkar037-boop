@@ -1,4 +1,4 @@
-````md
+
 # Hi there 👋, I'm Harsh Takalkar
 
 <div align="center">
@@ -13,7 +13,6 @@
 
 # 🌟 About Me
 
-```yaml
 Name: Harsh Takalkar
 Location: Pune, Maharashtra, India
 Education: B.Tech in Electronics & Telecommunication Engineering
@@ -25,7 +24,6 @@ Interests:
   - Robotics & Automation
   - Open Source Projects
 Current Goal: Becoming Industry Ready for Top Tech Internships
-````
 
 ---
 
@@ -156,7 +154,6 @@ const harsh = {
     "Master Full Stack + AI"
   ]
 }
-```
 
 ---
 
@@ -210,7 +207,6 @@ const harsh = {
 + I love building projects that combine Software + Hardware 🚀
 + Turning ideas into real products is my favorite thing 🔥
 + Always exploring new technologies and innovations 💡
-```
 
 ---
 
@@ -221,4 +217,3 @@ const harsh = {
 <img src="https://komarev.com/ghpvc/?username=harshtakalkar037-boop&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 </div>
-```
