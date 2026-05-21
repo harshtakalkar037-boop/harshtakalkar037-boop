@@ -1,31 +1,3 @@
-Your README is showing like that because you pasted the entire thing inside a **single code block** (` ``` `).
-GitHub is treating everything as plain code instead of rendering markdown.
-
-## Fix 👇
-
-1. Open `README.md`
-2. Click edit
-3. **Remove the first**
-
-````
-```md
-````
-
-4. **Remove the last**
-
-````
-```
-````
-
-5. Save the file
-
-Then it will render beautifully.
-
----
-
-Also use this improved cleaner version at the top instead of the old one 👇
-
-```md
 <h1 align="center">Hi 👋, I'm Harsh Takalkar</h1>
 
 <h3 align="center">
@@ -117,4 +89,3 @@ Robotics + surveillance-based defense project using ESP32-CAM & Arduino.
 <p align="center">
 ✨ Code • Build • Innovate ✨
 </p>
-```
