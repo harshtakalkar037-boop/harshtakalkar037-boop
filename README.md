@@ -90,6 +90,28 @@ from applicant income, credit score, DTI ratio, and collateral data.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshtakalkar037-boop&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshtakalkar037-boop&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshtakalkar037-boop&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/output/github-snake.svg" />
+    <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/output/github-snake.svg" />
+  </picture>
+</p>
+
+<!-- This only renders once .github/workflows/snake.yml has run once and created the `output` branch — see the checklist below. -->
+
 ---
 
 ## 🌐 Connect With Me
