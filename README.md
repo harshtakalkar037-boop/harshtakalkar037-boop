@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Harsh%20Takalkar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer%20%E2%80%A2%20AI%2FML%20Learner%20%E2%80%A2%20Embedded%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Harsh Takalkar</h1>
-
 <h3 align="center">
 Electronics Engineer • AI/ML Learner • Full Stack Developer • Embedded Systems Enthusiast
 </h3>
