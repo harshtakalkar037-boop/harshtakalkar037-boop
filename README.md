@@ -60,6 +60,26 @@ Robotics + surveillance-based defense project using ESP32-CAM & Arduino.
 
 ---
 
+### 🏆 DigiTwin — AI-Based Predictive Maintenance
+**1st Prize, UpXGen Hackathon.** A digital twin that uses machine learning to
+simulate real-time equipment behavior and predict failures before they happen.
+
+🔗 https://github.com/harshtakalkar037-boop/digitwin
+
+---
+
+### 📡 Human Presence Detection via Wi-Fi
+Trained an ML model to detect human presence purely from disturbances in
+Wi-Fi channel signals — signal processing meets machine learning.
+
+---
+
+### 💳 CreditWise — ML-Based Loan Approval
+Supervised learning model (scikit-learn) that classifies loan applications
+from applicant income, credit score, DTI ratio, and collateral data.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,12 +95,20 @@ Robotics + surveillance-based defense project using ESP32-CAM & Arduino.
 ## 🌐 Connect With Me
 
 <p>
+<a href="https://www.linkedin.com/in/harsh-takalkar/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 <a href="mailto:harshtakalkar037@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://github.com/harshtakalkar037-boop">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://harsh58.onrender.com/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 </p>
 
