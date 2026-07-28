@@ -1,91 +1,49 @@
-<h1 align="center">Hi 👋, I'm Harsh Takalkar</h1>
+<div align="center">
 
-<h3 align="center">
-Electronics Engineer • AI/ML Learner • Full Stack Developer • Embedded Systems Enthusiast
-</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/main/light.svg">
+  <img alt="Harsh Takalkar" src="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/main/light.svg">
+</picture>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+PICT;AI%2FML+Explorer;Building+Cool+Projects;Embedded+Systems+Developer;Always+Learning+New+Things" />
-</p>
+<br/><br/>
 
----
+<!--
+  Stats cards — self-hosted github-readme-stats instance required.
+  Replace YOUR-INSTANCE below once deployed (see the Setup Guide, Phase 2).
+  Until then these will show "API rate limit exceeded" (public instance) or 404.
+-->
 
-## 🚀 About Me
+<img width="100%" src="https://streak-stats.demolab.com/?user=harshtakalkar037-boop&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=harshtakalkar037-boop&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=harshtakalkar037-boop&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
-- 🎓 B.Tech Student at **PICT**
-- 🤖 Exploring **AI/ML & Full Stack Development**
-- 🔌 Passionate about **Embedded Systems & IoT**
-- 🛠️ Building real-world projects
-- 🚀 Goal: Crack top internships & build impactful products
+<br/><br/>
 
----
+<!--
+  Contribution snake — only appears once the Action below has run green
+  and created the `output` branch. Push to main to trigger the first run.
+-->
 
-## 🧠 Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/output/github-snake.svg" />
+</picture>
 
-### Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
-</p>
+<br/><br/>
 
-### Web Development
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,tailwind" />
-</p>
-
-### Databases & Tools
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,firebase,git,github,vscode" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎯 GoalForge
-AI-powered productivity & goal management platform.
-
-🔗 https://github.com/harshtakalkar037-boop/goalforge
-
----
-
-### 📝 NotesForge
-Modern notes sharing platform for students.
-
-🔗 https://github.com/harshtakalkar037-boop/NotesForge
-
----
-
-### 🚔 Military Surveillance & Missile Launcher Vehicle
-Robotics + surveillance-based defense project using ESP32-CAM & Arduino.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshtakalkar037-boop&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshtakalkar037-boop&theme=tokyonight" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p>
+<a href="https://www.linkedin.com/in/harsh-takalkar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
 <a href="mailto:harshtakalkar037@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+&nbsp;&nbsp;
+<a href="https://harsh58.onrender.com/">
+  <img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" />
 </a>
 
-<a href="https://github.com/harshtakalkar037-boop">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-</p>
-
----
-
-<p align="center">
-✨ Code • Build • Innovate ✨
-</p>
+</div>
