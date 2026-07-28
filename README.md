@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:7aa2f7&height=200&section=header&text=Harsh%20Takalkar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Electronics%20Engineer%20%E2%80%A2%20AI%2FML%20Learner%20%E2%80%A2%20Embedded%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Harsh Takalkar</h1>
 
 <h3 align="center">
@@ -6,6 +10,14 @@ Electronics Engineer • AI/ML Learner • Full Stack Developer • Embedded Sys
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+Student+at+PICT;AI%2FML+Explorer;Building+Cool+Projects;Embedded+Systems+Developer;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshtakalkar037-boop&color=00C2FF&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1500&color=7AA2F7&center=true&vCenter=true&width=750&lines=%F0%9F%8F%86+1st+Prize%2C+UpXGen+Hackathon+-+DigiTwin;%F0%9F%93%A1+Trained+ML+models+on+Wi-Fi+signal+data;%F0%9F%9A%97+Built+a+surveillance+vehicle+from+scratch;%F0%9F%92%A1+Build.+Break.+Learn.+Repeat." />
 </p>
 
 ---
@@ -97,6 +109,12 @@ from applicant income, credit score, DTI ratio, and collateral data.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshtakalkar037-boop&theme=tokyo-night&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshtakalkar037-boop/harshtakalkar037-boop/main/profile-3d-contrib/profile-night-rainbow.svg" />
+</p>
+
+<!-- 3D calendar only renders once .github/workflows/profile-3d-contrib.yml has run once -->
 
 ---
 
