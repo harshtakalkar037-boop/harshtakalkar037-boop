@@ -133,7 +133,7 @@ from applicant income, credit score, DTI ratio, and collateral data.
 ## 🌐 Connect With Me
 
 <p>
-<a href="https://www.linkedin.com/in/harsh-takalkar/">
+<a href="https://www.linkedin.com/in/harsh-takalkar-8a6764381/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
